@@ -6,7 +6,7 @@
 
   <groupId>org.sonatype.mavenbook</groupId>
   <artifactId>webapp3</artifactId>
-  <version>1.0</version>
+  <version>1.1</version>
   <packaging>war</packaging>
 
   <name>webapp3 Maven Webapp</name>
